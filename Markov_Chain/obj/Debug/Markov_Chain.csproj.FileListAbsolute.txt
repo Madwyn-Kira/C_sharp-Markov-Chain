@@ -1,0 +1,14 @@
+C:\Users\madwyn\Desktop\Markov_Chain\Markov_Chain\bin\Debug\Markov_Chain.exe.config
+C:\Users\madwyn\Desktop\Markov_Chain\Markov_Chain\bin\Debug\Markov_Chain.exe
+C:\Users\madwyn\Desktop\Markov_Chain\Markov_Chain\bin\Debug\Markov_Chain.pdb
+C:\Users\madwyn\Desktop\Markov_Chain\Markov_Chain\obj\Debug\Markov_Chain.csprojAssemblyReference.cache
+C:\Users\madwyn\Desktop\Markov_Chain\Markov_Chain\obj\Debug\Markov_Chain.csproj.CoreCompileInputs.cache
+C:\Users\madwyn\Desktop\Markov_Chain\Markov_Chain\obj\Debug\Markov_Chain.exe
+C:\Users\madwyn\Desktop\Markov_Chain\Markov_Chain\obj\Debug\Markov_Chain.pdb
+C:\Users\madwyn\Documents\main\проекты(все языки)\Markov_Chain_C#(Цепи Маркова)\Markov_Chain\bin\Debug\Markov_Chain.exe.config
+C:\Users\madwyn\Documents\main\проекты(все языки)\Markov_Chain_C#(Цепи Маркова)\Markov_Chain\bin\Debug\Markov_Chain.exe
+C:\Users\madwyn\Documents\main\проекты(все языки)\Markov_Chain_C#(Цепи Маркова)\Markov_Chain\bin\Debug\Markov_Chain.pdb
+C:\Users\madwyn\Documents\main\проекты(все языки)\Markov_Chain_C#(Цепи Маркова)\Markov_Chain\obj\Debug\Markov_Chain.csprojAssemblyReference.cache
+C:\Users\madwyn\Documents\main\проекты(все языки)\Markov_Chain_C#(Цепи Маркова)\Markov_Chain\obj\Debug\Markov_Chain.csproj.CoreCompileInputs.cache
+C:\Users\madwyn\Documents\main\проекты(все языки)\Markov_Chain_C#(Цепи Маркова)\Markov_Chain\obj\Debug\Markov_Chain.exe
+C:\Users\madwyn\Documents\main\проекты(все языки)\Markov_Chain_C#(Цепи Маркова)\Markov_Chain\obj\Debug\Markov_Chain.pdb
